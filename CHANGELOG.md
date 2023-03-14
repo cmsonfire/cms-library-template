@@ -1,5 +1,11 @@
 # @cmsonfire/cms-library-template
 
+## 0.0.4
+
+### Patch Changes
+
+- f2f403e: Fix Publish
+
 ## 0.0.3
 
 ### Patch Changes
