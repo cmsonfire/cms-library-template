@@ -5,6 +5,7 @@ Uses:
 - Typescript
 - pnpm
 - tsup
+- Changesets 📐
 
 ## Created by the following
 
@@ -28,3 +29,8 @@ pnpm build
 pnpm lint
 ```
 
+## Changesets (version control)
+
+```sh
+pnpm changeset init
+```
