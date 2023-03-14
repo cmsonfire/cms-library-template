@@ -1,5 +1,5 @@
-const hello = "World";
+const hello: string = "World";
 
-const message = `Hello ${hello}`;
+const message: string = `Hello ${hello}`;
 
 export { message };

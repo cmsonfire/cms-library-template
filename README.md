@@ -12,6 +12,8 @@ Uses:
 pnpm tsc --init
 ```
 
+## Build & Lint
+
 ```json
 "scripts": {
         "build": "tsup index.ts --format cjs,esm --dts"
@@ -21,3 +23,8 @@ pnpm tsc --init
 ```sh
 pnpm build
 ```
+
+```sh
+pnpm lint
+```
+
