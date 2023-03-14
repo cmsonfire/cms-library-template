@@ -1,6 +1,12 @@
 {
     "name": "@cmsonfire/cms-library-template",
     "license": "MIT",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsup index.ts --format cjs,esm --dts"
+    },
     "devDependencies": {
         "tsup": "^6.6.3",
         "typescript": "^4.9.5"

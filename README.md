@@ -12,3 +12,12 @@ Uses:
 pnpm tsc --init
 ```
 
+```json
+"scripts": {
+        "build": "tsup index.ts --format cjs,esm --dts"
+    },
+```
+
+```sh
+pnpm build
+```
