@@ -34,3 +34,7 @@ pnpm lint
 ```sh
 pnpm changeset init
 ```
+
+## Publishing workflow (GitHub Actions)
+
+See `.github/workflows`
