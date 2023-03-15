@@ -1,5 +1,11 @@
 # @cmsonfire/cms-library-template
 
+## 0.0.5
+
+### Patch Changes
+
+- 32a4a92: "fix: publish only dist folder"
+
 ## 0.0.4
 
 ### Patch Changes
