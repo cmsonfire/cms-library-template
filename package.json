@@ -1,6 +1,6 @@
 {
     "name": "@cmsonfire/cms-library-template",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "license": "MIT",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
@@ -18,5 +18,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "files": [ "dist" ]
+    "files": [
+        "dist"
+    ]
 }
